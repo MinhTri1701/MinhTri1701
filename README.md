@@ -6,8 +6,6 @@ Business Analyst Intern | Management Information Systems Student
 
 <p align="center">
   <img src="https://img.shields.io/badge/Business%20Analysis-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Analysis-6F42C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -54,6 +52,8 @@ A system analysis project for course registration, class management, teaching sc
 **Highlights:** Use Case, Activity, Sequence, Class Diagram, ERD, Figma UI  
 **Tools:** Visual Paradigm, Draw.io, Figma  
 
+🔗 [View Project Document](https://drive.google.com/file/d/1KQk3P5NnPobx8LZhpc57yhrWJU9kMdKK/view)
+
 ---
 
 ## 📰 Thoáng.vn – News Management Website
@@ -74,6 +74,8 @@ A Big Data project for processing and analyzing student performance data and pre
 
 **Highlights:** Batch ETL, real-time data simulation, data analysis, and Machine Learning  
 **Technologies:** Hadoop HDFS, PySpark, Spark SQL, Kafka, Pandas  
+
+🔗 [View Repository](https://github.com/LeDoanPhu/BIGDATA)  
 
 ---
 
