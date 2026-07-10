@@ -27,6 +27,13 @@ System analysis project covering course registration, class management, schedule
 **Deliverables:** Use Case, Activity Diagram, Sequence Diagram, Class Diagram, ERD and Figma UI  
 **Role:** System Analyst
 
+### Thoáng.vn – News Management Website
+
+A web-based news reading and content management system that allows users to browse articles by category, save articles, manage accounts and recover passwords. Writers can create, edit and submit articles for approval, while administrators manage users, articles, comments and feedback.
+
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap  
+**Architecture:** MVC, OOP, AJAX, JSON API  
+**Role:** System Analysis & Web Development
 ### Student Performance Analysis
 
 Big Data project for processing and analyzing student performance data.
